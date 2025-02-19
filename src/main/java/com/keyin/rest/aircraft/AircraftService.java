@@ -1,8 +1,5 @@
 package com.keyin.rest.aircraft;
 
-
-import com.keyin.rest.aircraft.Aircraft;
-import com.keyin.rest.aircraft.AircraftRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
