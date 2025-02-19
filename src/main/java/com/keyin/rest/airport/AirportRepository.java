@@ -1,4 +1,4 @@
-package com.keyin.rest.airports;
+package com.keyin.rest.airport;
 
 public class AirportRepository {
 }
